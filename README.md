@@ -1,10 +1,10 @@
 # portfolio
 
-1. https://www.lovejeju.shop
+1. https://www.lovejeju.shop by Spring
 
 ![lovejeju](https://user-images.githubusercontent.com/85912460/126598877-16900526-eb36-435a-8155-52f52a660bcc.jpg)
 
-2. https://www.nyamnyam.shop
+2. https://www.nyamnyam.shop by Nodejs
 
 ![nyamnyam](https://user-images.githubusercontent.com/85912460/126598964-5a165600-f7d6-4e6e-a4f6-a62a9fca7ed6.jpg)
 
