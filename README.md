@@ -15,6 +15,7 @@
 
 4. AUTO 인강 돌리기 by Python
 
+![auto_class](https://user-images.githubusercontent.com/85912460/126601873-87f81260-cfe3-47f1-bca9-748c0cbc4f58.jpg)
 
 5. 자율주행 이미지 학습 with Raspberry Pi Car & Python
 
