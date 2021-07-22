@@ -8,7 +8,7 @@
 
 ![nyamnyam](https://user-images.githubusercontent.com/85912460/126598964-5a165600-f7d6-4e6e-a4f6-a62a9fca7ed6.jpg)
 
-3. CRM 고객관리 시스템 by JAVA
+3. CRM 고객관리 시스템 by JAVA(https://www.miricanvas.com/v/1cg0uc)
 
 
 4. AUTO 인강 돌리기 by Python
